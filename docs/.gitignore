@@ -1,0 +1,12 @@
+_book
+node_modules
+basic
+.vscode
+*.log
+*.lock
+*.sh
+.DS_Store
+*/.DS_Store
+*/*/.DS_Store
+package-lock.json
+package.json
