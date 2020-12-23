@@ -1,0 +1,63 @@
+{
+  "title": "Diy Mini主机",
+  "language": "zh-hans",
+  "author": "Road",
+  "links": {
+    "sidebar": {
+      "Diy Mini主机": "https://www.diymini.tech"
+    }
+  },
+  "plugins": [
+    "-search",
+    "-lunr",
+    "-sharing",
+    "-livereload",
+    "search-plus",
+    "chart",
+    "graph",
+    "katex",
+    "sitemap-general",
+    "mermaid-gb3",
+    "flexible-alerts",
+    "chapter-fold",
+    "anchor-navigation-ex",
+    "my-toolbar",
+    "donate",
+    "flexible-alerts",
+    "code"
+  ],
+  "pluginsConfig": {
+    "anchor-navigation-ex": {
+      "showLevel": false,
+      "showGoTop": true
+    },
+    "chart": {
+      "type": "c3"
+    },
+    "sitemap-general": {
+      "prefix": "https://www.diymini.tech/"
+    },
+    "my-toolbar": {
+      "buttons": [
+        {
+          "label": "下载PDF",
+          "icon": "fa fa-file-pdf-o",
+          "url": "http://localhost:4000/book.pdf",
+          "position":"left",
+          "text": "下载PDF",
+          "target": "_blank"
+        }
+      ]
+    },
+    "donate": {
+      "wechat": "https://www.mapull.com/logo/mapull-qr.png",
+      "button": "反馈",
+      "wechatText": "微信扫码"
+    },
+    "pluginsConfig": {
+        "code": {
+            "copyButtons": true
+        }
+    }
+  }
+}
