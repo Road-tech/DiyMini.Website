@@ -6,22 +6,22 @@
 
 目前收录的主板如下：
 
-|       ASUS/华硕      	|      Gigabyte/技嘉      	| Asrock/华擎 	|   ECS/精英  	|       ONDA/昂达       	|
-|:--------------------:	|:-----------------------:	|:-----------:	|:-----------:	|:---------------------:	|
-| Pro H410T/CSM        	| GA-IMB410TN             	| B460TM-ITX  	| H410H6-TI2  	| B365D4 IPC（Ver:2.0） 	|
-| PRIME H310T R2.0/CSM 	| GA-H110TN (rev. 1.0)    	| H410TM-ITX  	| H310CH5-TI  	| H410D4 IPC（Ver:1.0） 	|
-| Q170T                	| GA-H110TN-E(M)          	| H110TM-ITX  	| H310CH5-TI2 	| B320-IPC (Ver:1.0)    	|
-| H110T                	| GA-Q170TN               	| H81TM-ITX   	| H310H5-TI2  	| A320-IPC (Ver:1.0)    	|
-| Q87T                 	| GA-H310TN (rev. 1.0)    	| Z77TM-ITX   	| H110-SF100  	|                       	|
-|                      	| GA-H310TN-R2 (rev. 1.0) 	| H77TM-ITX   	| H1104-SF100 	|                       	|
-|                      	| GA-IMB310TN (rev. 1.0)  	| B75TM-ITX   	| H110T-SI01  	|                       	|
-|                      	| GA-IMB370TN (rev. 1.0)  	| H61TM-ITX   	|             	|                       	|
-|                      	| GA-H170TN (rev. 1.0)    	| A320TM-ITX  	|             	|                       	|
-|                      	| GA-H97TN (rev. 1.0)     	|             	|             	|                       	|
-|                      	| GA-H81TN(rev. 1.0)      	|             	|             	|                       	|
-|                      	| GA-B85TN(rev. 1.0)      	|             	|             	|                       	|
-|                      	| GA-H87TN(rev. 1.0)      	|             	|             	|                       	|
-|                      	| GA-Q87TN(rev. 1.0)      	|             	|             	|                       	|
-|                      	| GA-H77TN(rev. 1.1)      	|             	|             	|                       	|
-|                      	| GA-B75TN(rev. 1.1)      	|             	|             	|                       	|
-|                      	| GA-H61TN(rev. 1.1)      	|             	|             	|                       	|
+|       ASUS/华硕      	|  Gigabyte/技嘉 	| Asrock/华擎 	|   ECS/精英  	|  ONDA/昂达  	|
+|:--------------------:	|:--------------:	|:-----------:	|:-----------:	|:-----------:	|
+| Pro H410T/CSM        	| GA-IMB410TN    	| B460TM-ITX  	| H410H6-TI2  	| B365D4 IPC  	|
+| PRIME H310T R2.0/CSM 	| GA-H110TN      	| H410TM-ITX  	| H310CH5-TI  	| H410D4 IPC  	|
+| Q170T                	| GA-H110TN-E(M) 	| H110TM-ITX  	| H310CH5-TI2 	| B320-IPC    	|
+| H110T                	| GA-Q170TN      	| H81TM-ITX   	| H310H5-TI2  	| A320-IPC    	|
+| Q87T                 	| GA-H310TN      	| Z77TM-ITX   	| H110-SF100  	|             	|
+| H81T                 	| GA-H310TN-R2   	| H77TM-ITX   	| H1104-SF100 	|             	|
+|                      	| GA-IMB310TN    	| B75TM-ITX   	| H110T-SI01  	|             	|
+|                      	| GA-IMB370TN    	| H61TM-ITX   	|             	|             	|
+|                      	| GA-H170TN      	| A320TM-ITX  	|             	|             	|
+|                      	| GA-H97TN       	|             	|             	|             	|
+|                      	| GA-H81TN       	|             	|             	|             	|
+|                      	| GA-B85TN       	|             	|             	|             	|
+|                      	| GA-H87TN       	|             	|             	|             	|
+|                      	| GA-Q87TN       	|             	|             	|             	|
+|                      	| GA-H77TN       	|             	|             	|             	|
+|                      	| GA-B75TN       	|             	|             	|             	|
+|                      	| GA-H61TN       	|             	|             	|             	|
