@@ -50,9 +50,9 @@
       ]
     },
     "donate": {
-      "wechat": "https://www.mapull.com/logo/mapull-qr.png",
-      "button": "反馈",
-      "wechatText": "微信扫码"
+      "wechat": "https://www.diymini.tech/images/QQgroup-qr.png",
+      "button": "入群交流",
+      "wechatText": "QQ扫码"
     },
     "pluginsConfig": {
         "code": {
