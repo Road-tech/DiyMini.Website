@@ -6,7 +6,7 @@
 ---  
 ## Mac mini DIY方案
 
-* [前言](Mac_mini_DIY/README.md)
+* [关于Mac mini DIY](Mac_mini_DIY/README.md)
 * [硬件选择](Mac_mini_DIY/Hardware/README.md)
 	* [主板](Mac_mini_DIY/Hardware/Motherboard/README.md)
 		* [400系/Comet Lake-S](Mac_mini_DIY/Hardware/Motherboard/400s.md)
