@@ -1,5 +1,5 @@
-# 终于等到你——DIY Mac mini & Hackintosh # 标题 
-## Hackintosh for Asus-H110T, 8100, DW1820A, using Opencore and Support macOS Catalina #副标题
+# 终于等到你——DIY Mac mini & Hackintosh
+Hackintosh for Asus-H110T, 8100, DW1820A, using Opencore and Support macOS Catalina
 
 文章转载至[https://blog.malu.tech/2020/05/06/DIYMacmini&Hackintosh/](https://blog.malu.tech/2020/05/06/DIYMacmini&Hackintosh/)
 
