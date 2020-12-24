@@ -31,4 +31,4 @@
 14. [MacMini 完美机箱改造【3/2 加造价清单】【加完成整体照片】 2012-2-25 20:53](https://www.chiphell.com/thread-368557-1-1.html)
 	[再折腾我的DIY MacMini， 冲击1.3G无线速度... 2015-3-29 02:28](https://www.chiphell.com/thread-1263213-1-1.html)
 
-15. 组建最超值Mac mini HTPC主机（原创） 2011-8-28 23:31 ](https://www.chiphell.com/thread-256895-1-1.html)
+15. [组建最超值Mac mini HTPC主机（原创） 2011-8-28 23:31](https://www.chiphell.com/thread-256895-1-1.html)
