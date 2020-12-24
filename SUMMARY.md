@@ -11,11 +11,11 @@
 	* [主板](Mac_mini_DIY/Hardware/Motherboard/README.md)
 		* [400系/Comet Lake-S](Mac_mini_DIY/Hardware/Motherboard/400s.md)
 		* [300系/Coffee Lake-S](Mac_mini_DIY/Hardware/Motherboard/300s.md)
-		* [200系/Kaby Lake](Mac_mini_DIY/Hardware/Motherboard/主板.md)
 		* [100系/Skylake](Mac_mini_DIY/Hardware/Motherboard/100s.md)
-		* [8系/Haswell](Mac_mini_DIY/Hardware/Motherboard/主板.md)
-		* [7系/Ivy Bridge](Mac_mini_DIY/Hardware/Motherboard/主板.md)
-		* [6系/Sandy Bridge](Mac_mini_DIY/Hardware/Motherboard/主板.md)
+		* [8系/Haswell](Mac_mini_DIY/Hardware/Motherboard/80s.md)
+		* [7系/Ivy Bridge](Mac_mini_DIY/Hardware/Motherboard/70s.md)
+		* [6系/Sandy Bridge](Mac_mini_DIY/Hardware/Motherboard/60s.md)
+		* [AMD YES!](Mac_mini_DIY/Hardware/Motherboard/AMDYES.md)
 	* [散热](Mac_mini_DIY/Hardware/Cooling/散热.md)
 		* [Nimitz尼米兹](Mac_mini_DIY/Hardware/Cooling/散热.md)
 		* [热管](Mac_mini_DIY/Hardware/Cooling/散热.md)
@@ -24,7 +24,7 @@
 	* [硬盘](Mac_mini_DIY/Hardware/HardDisk/硬盘.md)
 	* [机箱](Mac_mini_DIY/Hardware/Case/机箱.md)
 * [成品展示](Mac_mini_DIY/ProductShow/README.md)
-	* [H110T+QN8J](Mac_mini_DIY/ProductShow/H110T+QN8J.md)
+	* [H110T+QN8J+尼米兹散热](Mac_mini_DIY/ProductShow/H110T+QN8J+NimitzCooling-Road.md)
 
 ---  
 
