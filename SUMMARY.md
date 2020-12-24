@@ -27,7 +27,7 @@
 	* [H110T+QN8J+尼米兹散热](Mac_mini_DIY/ProductShow/H110T+QN8J+NimitzCooling-Road.md)
 
 ---  
-
+<!--
 ##  品牌1L小主机方案
 
 * [型号选择](1LTinyPC/Model/README.md)
@@ -58,3 +58,4 @@
 	* [Lenovo M73](1LTinyPC/ProductShow/H110T+QN8J.md)
 
 ---
+-->
