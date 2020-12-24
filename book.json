@@ -40,11 +40,11 @@
     "my-toolbar": {
       "buttons": [
         {
-          "label": "下载or修改网址源码",
+          "label": "下载/修改网址源码",
           "icon": "fa fa-github",
           "url": "https://github.com/Road-tech/DiyMini.Website",
           "position":"left",
-          "text": "下载or修改网址源码",
+          "text": "下载/修改网址源码",
           "target": "_blank"
         }
       ]
