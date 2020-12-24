@@ -25,6 +25,7 @@
 	* [机箱](Mac_mini_DIY/Hardware/Case/case.md)
 * [成品展示](Mac_mini_DIY/ProductShow/README.md)
 	* [H110T+QN8J+尼米兹散热](Mac_mini_DIY/ProductShow/H110T+QN8J+NimitzCooling-Road.md)
+	* [其他Mac mini方案](Mac_mini_DIY/ProductShow/OtherMacMiniSolution.md)
 
 ---  
 <!--
