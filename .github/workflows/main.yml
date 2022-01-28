@@ -41,6 +41,7 @@ jobs:
         run: |
           npm install -g gitbook-cli          
           gitbook install
+          gitbook build
 
       - name: push _book to branch gh-pages 
         env:
