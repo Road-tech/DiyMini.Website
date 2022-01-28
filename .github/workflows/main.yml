@@ -1,8 +1,15 @@
 name: auto-generate-gitbook
-on:                                 #在main分支上进行push时触发  
+
+on:
   push:
     branches:
-    - master
+      - master
+      
+env:
+  GIT_USER: Road-tech
+  GIT_EMAIL: 496814664@qq.com
+  DEPLOY_REPO: Road-tech/DiyMini.Website
+  DEPLOY_BRANCH: master
 
 jobs:
   build:
@@ -11,22 +18,29 @@ jobs:
     strategy:
       matrix:
         os: [ubuntu-latest]
-        node_version: [12]
+        node_version: [12.14.0]
 
     steps:
       - name: Checkout
         uses: actions/checkout@v2
-        
+
+      - name: Checkout deploy repo
+        uses: actions/checkout@v2
+        with:
+          repository: ${{ env.DEPLOY_REPO }}
+          ref: ${{ env.DEPLOY_BRANCH }}
+          path: .deploy_git
+
       - name: Use Node.js ${{ matrix.node_version }}
         uses: actions/setup-node@v1
         with:
           node-version: ${{ matrix.node_version }}
+
       
       - name: configue gitbook
         run: |
           npm install -g gitbook-cli          
           gitbook install
-          npm install -g gitbook-summary
 
       - name: push _book to branch gh-pages 
         env:
