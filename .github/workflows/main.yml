@@ -43,6 +43,11 @@ jobs:
           gitbook install
           gitbook build
 
+      - name: Deploy to Cloudflare Workers
+        uses: cloudflare/wrangler-action@1.1.0
+        with:
+          apiToken: ${{ secrets.CF_WORKERS_TOKEN }} 
+
       - name: push _book to branch gh-pages 
         env:
           TOKEN: ${{ secrets.TOKEN }}
