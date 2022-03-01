@@ -41,9 +41,8 @@ jobs:
         run: |
           npm install -g gitbook-cli       
           gitbook install
-          echo $WRANGLER > wrangler.toml
           gitbook build
-          cat wrangler.toml
+
 
       - name: Deploy to Cloudflare Workers
         env:
