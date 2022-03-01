@@ -43,13 +43,14 @@ jobs:
           gitbook install
           echo $WRANGLER > wrangler.toml
           gitbook build
+          cat wrangler.toml
 
       - name: Deploy to Cloudflare Workers
         env:
           USER: root
         uses: cloudflare/wrangler-action@1.3.0
         with:
-          apiToken: ${{ secrets.CF_API_TOKEN }}
+          apiToken: ${{ CF_WORKERS_TOKEN }}
           
       - name: push _book to branch gh-pages 
         env:
