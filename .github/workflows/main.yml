@@ -39,15 +39,18 @@ jobs:
       
       - name: configue gitbook
         run: |
-          npm install -g gitbook-cli          
+          npm install -g gitbook-cli       
           gitbook install
+          echo $WRANGLER > wrangler.toml
           gitbook build
 
       - name: Deploy to Cloudflare Workers
-        uses: cloudflare/wrangler-action@1.1.0
+        env:
+          USER: root
+        uses: cloudflare/wrangler-action@master
         with:
           apiToken: ${{ secrets.CF_WORKERS_TOKEN }} 
-
+          
       - name: push _book to branch gh-pages 
         env:
           TOKEN: ${{ secrets.TOKEN }}
