@@ -1,0 +1,62 @@
+{
+  "title": "Diy Mini主机",
+  "language": "zh-hans",
+  "author": "Road",
+  "links": {
+    "sidebar": {
+      "Diy Mini主机": "https://www.diymini.tech/"
+    }
+  },
+  "plugins": [
+    "-search",
+    "-lunr",
+    "-sharing",
+    "-livereload",
+    "search-plus",
+    "chart",
+    "graph",
+    "katex",
+    "mermaid-gb3",
+    "flexible-alerts",
+    "chapter-fold",
+    "anchor-navigation-ex",
+    "my-toolbar",
+    "donate",
+    "flexible-alerts",
+    "code"
+  ],
+  "pluginsConfig": {
+    "anchor-navigation-ex": {
+      "showLevel": false,
+      "showGoTop": true
+    },
+    "chart": {
+      "type": "c3"
+    },
+    "sitemap-general": {
+      "prefix": "https://www.diymini.tech/"
+    },
+    "my-toolbar": {
+      "buttons": [
+        {
+          "label": "下载/修改网址源码",
+          "icon": "fa fa-github",
+          "url": "https://github.com/Road-tech/DiyMini.Website",
+          "position":"left",
+          "text": "下载/修改网址源码",
+          "target": "_blank"
+        }
+      ]
+    },
+    "donate": {
+      "wechat": "https://www.diymini.tech/images/QQgroup-qr.png",
+      "button": "交流",
+      "wechatText": "QQ扫码"
+    },
+    "pluginsConfig": {
+        "code": {
+            "copyButtons": true
+        }
+    }
+  }
+}

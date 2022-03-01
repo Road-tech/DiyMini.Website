@@ -1,0 +1,10 @@
+name = "diymini"
+type = "webpack"
+account_id = "4b5fe0fdb66421090ef02ad10e4b63cf"
+workers_dev = false
+route = "www.diymini.tech/*"
+zone_id = "0a12ab86598cc0ada75d21bbb1674add"
+
+[site]
+bucket = "./_book"
+entry-point = "workers-site"
