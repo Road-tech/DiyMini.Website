@@ -50,7 +50,7 @@ jobs:
           USER: root
         uses: cloudflare/wrangler-action@1.3.0
         with:
-          apiToken: ${{ CF_WORKERS_TOKEN }}
+          apiToken: ${{ secrets.CF_WORKERS_TOKEN }}
           
       - name: push _book to branch gh-pages 
         env:
